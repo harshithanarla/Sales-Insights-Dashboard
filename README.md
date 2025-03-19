@@ -38,7 +38,8 @@
 - Are there seasonal trends in sales and profitability?
 - How does the performance of 2014, 2015, 2016, and 2017 compare?
 
-### Dashboard Interaction <a href="https://github.com/harshithanarla/Sales-Insights-Dashboard/blob/main/Harshitha.pbix">View Dashboard</a>
+### Dashboard Interaction 
+<a href="https://github.com/harshithanarla/Sales-Insights-Dashboard/blob/main/Harshitha.pbix">View Dashboard</a>
 
 
 
