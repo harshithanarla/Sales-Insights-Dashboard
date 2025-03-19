@@ -9,8 +9,37 @@
 
 ## Key Questions Answered  
 ### Sales & Profit Analysis
-- What is the total revenue generated? (Total Sales KPI)
-- What is the total profit earned? (Total Profit KPI)
-- What is the overall profit margin? (Profit / Sales %)
-- How do monthly sales trends change over the years? (Monthly Sales Chart)
-- How does profit fluctuate throughout the months? (Monthly Profit Chart)
+- What is the total revenue generated? 
+- What is the total profit earned? 
+- What is the overall profit margin? 
+- How do monthly sales trends change over the years? 
+- How does profit fluctuate throughout the months?
+
+### Regional Sales Insights
+- Which region contributes the most to total sales?
+- Which region has the highest profit margin? 
+- Which region is underperforming in terms of sales and profit?
+
+### Customer & Segment Analysis
+- Which customer segment generates the most revenue? (Sales by Segment Chart)
+- Which segment has the highest profit margin?-
+- How do consumer, corporate, and home office segments compare in terms of sales?
+- Which segment benefits the most from discounts?
+
+### Product Category & Subcategory Performance
+- Which product category generates the most revenue? (Sales by Category Chart - Technology, Furniture, Office Supplies)
+- Which product subcategory performs best in sales? (Sales by Subcategory Chart)
+- Which product subcategories contribute the highest profit?
+- Are there any underperforming product categories that need strategic improvements?
+
+### Yearly & Monthly Performance Trends
+- Which year had the highest sales and profit? (Yearly Sales KPI)
+- Which months experience the highest sales spikes? (Monthly Sales Trend Chart)
+- Are there seasonal trends in sales and profitability?
+- How does the performance of 2014, 2015, 2016, and 2017 compare?
+
+
+
+
+
+
