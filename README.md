@@ -5,4 +5,4 @@
 - This Sales Insights Dashboard analyzes Superstore data to uncover key business trends. It helps in understanding sales performance, profit margins, customer segmentation, and regional sales distribution using Power BI.
 
 ## Dataset Used
-- <a href="">Employee Attendance Sheet</a>
+- <a href="https://github.com/harshithanarla/Sales-Insights-Dashboard/blob/main/sample%20data.xlsx">Superstore Sample Data</a>
