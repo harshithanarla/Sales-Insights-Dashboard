@@ -41,6 +41,23 @@
 ### Dashboard Interaction 
 <a href="https://github.com/harshithanarla/Sales-Insights-Dashboard/blob/main/Harshitha.pbix">View Dashboard</a>
 
+## Process
+- Data Collection & Importing
+- Data Cleaning & Transformation
+- Creating DAX Measures
+
+## Dashboard
+![Screenshot (8)](https://github.com/user-attachments/assets/52dcae0c-5751-4029-a813-28612071f0ef)
+
+## Project Insights
+- Top-performing Region: The West region has the highest sales at 32% of total sales, followed by East (30%) and South (17%).
+- Leading Segment: The Corporate customer segment contributes the most to sales at 31%, while Home Office accounts for only 19%.
+- Category Performance: The Furniture category is the highest-grossing category with 742K in sales, while Technology follows with 836K in sales.
+- Discount Strategy: An average discount of 16% has been applied across all products, which can be optimized for better profitability.
+
+## Conclusion
+This Power BI dashboard enables businesses to gain valuable insights into their sales data, providing actionable information to improve decision-making, optimize sales strategies, and increase profitability.
+
 
 
 
