@@ -1,7 +1,7 @@
-# Sales Insights Dashboard - Power BI 🚀
+# Sales Insights Dashboard - Power BI 
 - This Sales Insights Dashboard provides an interactive analysis of sales, profit, and customer trends using the Superstore dataset. Built with Power BI, it enables users to explore key metrics such as total sales, profit, discount impact, and order trends.
 
-## 📌 Project Overview
+## Project Overview
 - This Sales Insights Dashboard analyzes Superstore data to uncover key business trends. It helps in understanding sales performance, profit margins, customer segmentation, and regional sales distribution using Power BI.
 
 ## Dataset Used
@@ -37,6 +37,8 @@
 - Which months experience the highest sales spikes? (Monthly Sales Trend Chart)
 - Are there seasonal trends in sales and profitability?
 - How does the performance of 2014, 2015, 2016, and 2017 compare?
+
+### Dashboard Imteraction <a href="">View Dashboard</a>
 
 
 
